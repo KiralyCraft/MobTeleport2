@@ -1,0 +1,11 @@
+name: MobTeleport
+main: com.kiralycraft.mobteleport.MobTeleport
+version: 1.0
+depend: [Essentials]
+author: KiralyCraft
+commands:
+    mt:
+       description: Transfera mobi intre doi jucatori.
+       usage: Scrie /mt pentru ajutor
+       permission: mobteleport.mt
+       permission-message: Nu ai permisiunea sa folosesti MobTeleport!
